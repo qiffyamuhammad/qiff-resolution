@@ -1,0 +1,10 @@
+--==RESOLUSI SAYA==--
+
+- Konsisten Belajar Web Programming
+    - HTML & CSS
+    - PHP
+    - Java Script
+    - Bootstrap 4
+    - CI
+- Membuat sebuah website yang kompleks
+- Semoga bisa menjadi seorang freelance untuk membuat website
